@@ -43,7 +43,7 @@ o:tab("base", translate("Normal Settings"))
 o:tab("advanced", translate("Advanced Settings"))
 
 enable = o:taboption("base", Flag, "enable", translate("Enable"))
-name = o:taboption("base", Value, "username", translate("Username"),translate("The username given to you by your network administrator"))
+name = o:taboption("base", Value, "username", translate("Username"),translate("The username given to you by your network administrator,please append '@有线1x上网' after your username"))
 pass = o:taboption("base", Value, "password", translate("Password"), translate("The password you set or given to you by your network administrator"))
 pass.password = true
 
