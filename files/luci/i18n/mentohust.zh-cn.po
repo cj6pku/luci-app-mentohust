@@ -11,16 +11,18 @@ msgid "Log file:/tmp/mentohust.log"
 msgstr "日志文件：/tmp/mentohust.log"
 
 msgid "Configure MentoHUST 802.11x."
-msgstr "配置MentoHUST 802.11x验证。"
+msgstr "配置MentoHUST 802.11x验证。注意：除了用户名和密码其余选项请不要擅自修改，可能导致网络无法连接。"
 
 msgid "Normal Settings"
 msgstr "常规设置"
 
-msgid "The username given to you by your network administrator"
-msgstr "您的用户名(或管理员分配的用户名)"
+
+
+msgid "The username given to you by your network administrator,please append '@有线1x上网' after your username"
+msgstr "您的用户名(校园网账号学号，请在用户名后输入 '@有线1x上网'，例如：username@有线1x上网)"
 
 msgid "The password you set or given to you by your network administrator"
-msgstr "您的密码(或管理员分配的密码)"
+msgstr "您的密码(校园网账号密码)"
 
 msgid "Physical interface of WAN"
 msgstr "WAN口的物理接口"
